@@ -1,13 +1,13 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: chocott-backstage
-  description: An example of a Backstage application.
+  name: chocott-backstage-daylight55
+  description: Chocott Backstage created by daylight55
   # Example for optional annotations
   # annotations:
   #   github.com/project-slug: backstage/backstage
   #   backstage.io/techdocs-ref: dir:.
 spec:
   type: website
-  owner: john@example.com
+  owner: daylight55@example.com
   lifecycle: experimental
