@@ -6459,7 +6459,7 @@
     lodash "^4.17.21"
     lodash-es "^4.17.21"
 
-"@roadiehq/backstage-plugin-github-pull-requests@^2.5.19":
+"@roadiehq/backstage-plugin-github-pull-requests@^2.5.20":
   version "2.5.20"
   resolved "https://registry.yarnpkg.com/@roadiehq/backstage-plugin-github-pull-requests/-/backstage-plugin-github-pull-requests-2.5.20.tgz#067ea00b2757307ef31ab6155fc02df60687d987"
   integrity sha512-47iesSqLqf4CXEWGDHhagVexn21h4SWGBXSFURw4iahw8R84RZ7ere3kWGSgFELHSih1JamEheh2yEeuM5JT7A==
@@ -8052,9 +8052,9 @@
     "@types/ssh2" "*"
 
 "@types/dockerode@^3.3.0":
-  version "3.3.23"
-  resolved "https://registry.yarnpkg.com/@types/dockerode/-/dockerode-3.3.23.tgz#07b2084013d01e14d5d97856446f4d9c9f27c223"
-  integrity sha512-Lz5J+NFgZS4cEVhquwjIGH4oQwlVn2h7LXD3boitujBnzOE5o7s9H8hchEjoDK2SlRsJTogdKnQeiJgPPKLIEw==
+  version "3.3.24"
+  resolved "https://registry.yarnpkg.com/@types/dockerode/-/dockerode-3.3.24.tgz#bea354a4fcd0824a80fd5ea5ede3e8cda71137a7"
+  integrity sha512-679y69OYusf7Fr2HtdjXPUF6hnHxSA9K4EsuagsMuPno/XpJHjXxCOy2I5YL8POnWbzjsQAi0pyKIYM9HSpQog==
   dependencies:
     "@types/docker-modem" "*"
     "@types/node" "*"
@@ -9320,7 +9320,7 @@ anymatch@^3.0.3, anymatch@~3.1.2:
     "@backstage/theme" "^0.5.0"
     "@material-ui/core" "^4.12.2"
     "@material-ui/icons" "^4.9.1"
-    "@roadiehq/backstage-plugin-github-pull-requests" "^2.5.19"
+    "@roadiehq/backstage-plugin-github-pull-requests" "^2.5.20"
     history "^5.0.0"
     react "^17.0.2"
     react-dom "^17.0.2"
